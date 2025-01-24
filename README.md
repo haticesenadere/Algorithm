@@ -52,4 +52,4 @@
 17. **5 kişilik bir grubu yaşlarına göre küçükten büyüğe sıralayan algoritmayı yazın.**  
     *Write an algorithm to sort a group of 5 people by their ages in ascending order.*  
 
-Eğer bu algoritmalardan birine veya hepsine yönelik örnek kodlara ihtiyacınız varsa, belirtebilirsiniz. 😊
+
